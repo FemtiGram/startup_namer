@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// Added comment for new test
+
 class RandomWords extends StatefulWidget {
   @override
   RandomWordsState createState() => new RandomWordsState();
